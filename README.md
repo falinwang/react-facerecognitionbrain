@@ -1,3 +1,5 @@
+![Smart Brain Cover](public/Smart-app-cover.png)
+
 # Smart Brain: Face Detection App
 
 Roy Fa-Lin Wang
@@ -13,6 +15,7 @@ Roy Fa-Lin Wang
 ## About Smart Brain
 
 Smart brain is a web app that detects the human face present in the image whose URL you submitted.
+
 ## Project Description
 
 This project is about using Clarify API to detect the human faces in the image the user uploaded after they registered and save the counts of their uploaded image. 
