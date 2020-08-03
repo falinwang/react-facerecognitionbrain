@@ -31,7 +31,7 @@ This website is now deployed on Heroku: [Smart Brain by Roy](https://smart-brain
 
 2. Paste an image URL in the box and click Detect Button.
 
-- In case you don't know where to find image URL, you can try: `https://thispersondoesnotexist.com/image`. [This person does not exist](https://thispersondoesnotexist.com/) is created by [Phillip Wang](https://www.producthunt.com/posts/this-person-does-not-exist).
+- In case you don't know where to find image URL, you can try: `https://thispersondoesnotexist.com/image`. [This Person Does Not Exist](https://thispersondoesnotexist.com/) created by [Phillip Wang](https://www.producthunt.com/posts/this-person-does-not-exist) presents a random, computer generated photo of a fictional person. Refresh the page each time for a new face.
 
 ![Paste URL](public/pasteurl.png)
 
