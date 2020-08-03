@@ -1,11 +1,9 @@
 ![Smart Brain Cover](public/Smart-app-cover.png)
 
 # Smart Brain: Face Detection App
-
 By Roy Fa-Lin Wang
 
-[Link to Smart Brain](https://smart-brain-roy.herokuapp.com/)
-
+[Play with Smart Brain click here](https://smart-brain-roy.herokuapp.com/) 
 
 [Link to front-end repo](https://github.com/falinwang/react-facerecognitionbrain)
 
