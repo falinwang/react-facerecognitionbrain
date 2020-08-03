@@ -26,5 +26,15 @@ This project is built with React.js, Node.js, Express.js, as well as a PostgreSQ
 
 This website is now deployed on Heroku: [Smart Brain by Roy](https://smart-brain-roy.herokuapp.com/). (The first loading might require 30-second of wait.)
 1. Register a user account with name, email and password
+
+![Register](public/register.png)
+
 2. Paste an image URL in the box and click Detect Button.
+
+![Paste URL](public/pasteurl.png)
+
 3. Ta-DA! Did you see the face?
+
+![Face Detection](public/detectface.png)
+
+4. You can sign out and sign in to earn more entries!
