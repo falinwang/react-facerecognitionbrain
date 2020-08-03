@@ -16,8 +16,7 @@ Smart brain is a web app that detects the human face present in the image whose 
 
 ## Project Description
 
-This project is about using Clarify API to detect the human faces in the image the user uploaded after they registered and save the counts of their uploaded image. 
-This project is built with React.js, Node.js, Express.js, as well as a PostgreSQL is in charge of user sign-in/registration as well as keeping track of the number of entries for each user.
+This project is about using Clarify API to detect the human faces in the image the user uploaded after they registered and save the counts of their uploaded image. In this app, I use React.js to build the front-end with Tachyons CSS, use Node.js and express.js, and cooperate with Clarifai face detection API, and use PostgreSQL to build the user login system and database that keeps track of the entries number.
 
 
 ## How to Use
