@@ -1,4 +1,4 @@
-![Smart Brain Cover](public/smart-app-cover.png)
+![Smart Brain Cover](public/Smart-app-cover.png)
 
 # Smart Brain: Face Detection App
 
