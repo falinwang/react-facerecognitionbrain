@@ -4,6 +4,9 @@
 By Roy Fa-Lin Wang
 
 [Play with Smart Brain click here](https://smart-brain-roy.herokuapp.com/) 
+- Demo account
+  - email: testme@mail.com
+  - password: `testme`
 
 [Link to front-end repo](https://github.com/falinwang/react-facerecognitionbrain)
 
